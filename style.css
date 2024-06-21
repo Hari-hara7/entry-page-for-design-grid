@@ -180,3 +180,17 @@ html {
         display: flex;
     }
 }
+
+
+
+
+
+
+
+
+
+.gradient-text {
+    background: linear-gradient(to right, white, blue);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
