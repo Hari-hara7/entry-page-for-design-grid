@@ -2,7 +2,7 @@ body {
     margin: 0;
     font-family: Arial, sans-serif;
     background-color: #000000;
-    color: #ffffff;
+    color: blue;
     overflow-x: hidden;
 }
 
@@ -14,6 +14,12 @@ header {
     background-color: #000000;
     border-bottom: 2px solid #0000FF;
 }
+
+.hero p {
+    color: white; /* Makes the paragraph text white */
+}
+
+
 
 .logo {
     font-size: 1.5em;
